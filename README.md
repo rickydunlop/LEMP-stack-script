@@ -1,8 +1,7 @@
 LEMP Stack Script
 =================
 
-This script mainly consists of the work of rnolen's Linode stack script
-http://www.linode.com/stackscripts/view/?StackScriptID=41
+This script mainly consists of the work of rnolen's <a href="http://www.linode.com/stackscripts/view/?StackScriptID=41">Linode stack script</a>
 
 I have added a function to install git and removed the linode specific parts, so that it can be used anywhere.
 
